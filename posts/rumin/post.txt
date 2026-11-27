@@ -14,4 +14,4 @@ It's ready for internal testing, not for a public launch. No model has been back
 
 If you could stress-test one company against one shock, which would you pick?
 
-#FinTech #BuildInPublic
+#FinTech #BuildInPublic #FinancialModeling #KnowledgeGraph
